@@ -35,11 +35,11 @@
         <extension point="xbmc.addon.metadata">
             <summary lang="es">[COLOR seagreen][B]Valeror's[/B][/COLOR] Wizard</summary>
             <description lang="es">
-    [COLOR seagreen][B]Valeror's[/B][/COLOR] Wizard es un asistente de instalación automatizada de mi configuración personal de kodi. 
-    Además ofrece numerosas funciones de mantenimiento y otras utilidades. 
+[COLOR seagreen][B]Valeror's[/B][/COLOR] Wizard es un asistente de instalación automatizada de mi configuración personal de kodi. 
+Además ofrece numerosas funciones de mantenimiento y otras utilidades. 
 
-    Addon basado en el plugin de Openwizard y actualmente desarrollado por RagnarLothbrok-Odin. 
-    Proyecto Openwizard, traducido al Castellano por @joheos11 y Valero.
+Addon basado en el plugin de Openwizard y actualmente desarrollado por RagnarLothbrok-Odin. 
+Proyecto Openwizard, traducido al Castellano por @joheos11 y Valero.
             </description>
             <platform>all</platform>
             <reuselanguageinvoker>false</reuselanguageinvoker>
